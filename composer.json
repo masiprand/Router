@@ -1,0 +1,13 @@
+{
+    "name": "involve/router",
+    "description": "Component Router FwWeb",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mas iprand",
+            "email": "masiprand@gmail.com"
+        }
+    ],
+    "require": {}
+}
