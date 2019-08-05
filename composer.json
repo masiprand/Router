@@ -1,6 +1,6 @@
 {
     "name": "involve/router",
-    "description": "Component Router FwWeb",
+    "description": "Component Router Web",
     "type": "library",
     "license": "MIT",
     "authors": [
